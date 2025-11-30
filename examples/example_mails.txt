@@ -1,8 +1,32 @@
-sample_credit_email
-Dear Customer, Rs. 200.00 is successfully credited to your account **0000 by VPA xyz@oksbi on 30-11-25. Reference number is 533473850000.
+========================================
+SAMPLE EMAIL FORMATS - HDFC BANK
+========================================
 
-sample_debit_email
-Dear Customer, Rs. 447.00 has been debited from account 0000 to VPA lmaz@hdfcbank on 30-11-25. Reference number is 100056760000.
+-----------------------------------------
+1. DEBIT TRANSACTION (Money Sent)
+-----------------------------------------
 
-sample_balance_email
-The available balance in your account ending XX0000 is Rs. INR 9,569.45 as of 30-NOV-25.
+Subject: You have done a UPI txn. Check details!
+
+Body:
+Dear Customer, Rs.1.00 has been debited from account 0000 to VPA 048320284092@ibl X on 30-11-25. Your UPI transaction reference number is 114889000060. If you did not authorize this transaction, please report it immediately by calling 18002586161 Or SMS BLOCK UPI to 7308080808. Warm Regards, HDFC Bank
+
+-----------------------------------------
+2. CREDIT TRANSACTION (Money Received)
+-----------------------------------------
+
+Subject: View: HDFC Bank A/c update
+
+Body:
+Dear Customer, Rs. 1.00 is successfully credited to your account **0000 by VPA lemonexample@oksbi Lemon Example on 30-11-25. Your UPI transaction reference number is 533470000929. Thank you for banking with us. Warm Regards, HDFC Bank
+
+-----------------------------------------
+3. BALANCE UPDATE
+-----------------------------------------
+
+Subject: View: Account update for your HDFC Bank A/c
+
+Body:
+Dear Customer, Greetings from HDFC Bank! The available balance in your account ending XX0682 is Rs. INR 9,569.45 as of 29-NOV-25. The balance in the account does not include the uncleared cheque amount, if any. For real-time balance updates, call us at 1800 270 3333. Thank you for banking with us! Warm Regards, HDFC Bank
+
+========================================
