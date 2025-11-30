@@ -1,0 +1,8 @@
+sample_credit_email
+Dear Customer, Rs. 200.00 is successfully credited to your account **0000 by VPA xyz@oksbi on 30-11-25. Reference number is 533473850000.
+
+sample_debit_email
+Dear Customer, Rs. 447.00 has been debited from account 0000 to VPA lmaz@hdfcbank on 30-11-25. Reference number is 100056760000.
+
+sample_balance_email
+The available balance in your account ending XX0000 is Rs. INR 9,569.45 as of 30-NOV-25.
