@@ -42,11 +42,17 @@ Runs every minute using time-based triggers on Google Apps Script.
 
 ## 📂 Repository Structure
 src/automation.gs # Main Google Apps Script code
+
 docs/setup_guide.md # Step-by-step installation guide
+
 docs/analytics.md # Monthly analytics + donut chart instructions
+
 docs/email_formats.md # Regex patterns + supported email types
+
 examples/*.txt # Sample HDFC transaction emails
+
 LICENSE # MIT License
+
 README.md # Main documentation
 
 
